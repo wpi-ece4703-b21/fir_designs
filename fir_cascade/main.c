@@ -3,6 +3,8 @@
 #include "xlaudio_armdsp.h"
 #include <stdlib.h>
 
+// comment
+
 typedef struct cascadestate {
     float32_t s[2];
     float32_t c[2];
